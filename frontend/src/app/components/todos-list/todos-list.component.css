@@ -1,0 +1,42 @@
+ .container {
+     width: 90%;
+     margin-right: auto;
+     margin-left: auto;
+     height: 90%;
+ }
+ 
+ .card {
+     width: 90%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5px;
+     height: 80%;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ 
+ table {
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ .filter {
+     margin-left: 5%;
+     width: 30%;
+     padding-top: 10px;
+ }
+ 
+ .paginator {
+     position: absolute;
+     bottom: 0px;
+     right: 5%;
+     background: transparent;
+ }
+ 
+ .table-col-title {
+     width: 48%;
+ }
+ 
+ .table-col-description {
+     width: 40%;
+ }

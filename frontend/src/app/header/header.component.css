@@ -1,0 +1,22 @@
+.container {
+    margin-left: 8px;
+    padding-top: 5px;
+    width: 100%;
+    float: right;
+}
+
+.button {
+    display: flex;
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+p {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 25px;
+    margin-right: 5px;
+    font-weight: 100;
+    color: rgb(83, 7, 83);
+}
